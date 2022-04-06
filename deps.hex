@@ -10,3 +10,4 @@ scribe = "~> 0.10" # debug printing tables
 recase = "~> 0.5" # string recasing
 telemetry_metrics = "~> 0.4"
 telemetry_poller = "~> 0.4"
+where = "~> 0.1"
